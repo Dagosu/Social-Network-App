@@ -10,3 +10,4 @@
 - Find the number of communities, find the biggest community
 - Chats (Direct messages / Groupchat)
 - Events (Create/join events)
+- Generate activity reports
