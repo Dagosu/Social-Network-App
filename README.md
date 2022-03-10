@@ -1,5 +1,5 @@
 # Social Network Desktop Application
-# Javafx
+# Javafx, PostgreSQL Database
 
 ## Features
 
